@@ -37,7 +37,7 @@ This project uses Long Short-Term Memory (LSTM) and Markov Random Field (MRF) mo
 
 ## Credits
 
-This project was built by [Vimal Veeramani](https://github.com/vimalveeramani) and was based on the [Kaggle S&P 500 stock data](https://www.kaggle.com/camnugent/sandp500) dataset.
+This project was built by [Ajay](https://github.com/Ajay2303) and was based on the [Kaggle S&P 500 stock data](https://www.kaggle.com/camnugent/sandp500) dataset.
 
 ## License
 
